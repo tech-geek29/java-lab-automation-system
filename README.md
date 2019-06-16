@@ -39,9 +39,6 @@ The admin’s IP address and port no. is required. The attachments or messages w
 # Assumptions and Dependencies
 LAN connection between desired devices.
 
-
-## Diagrams
-
 #Data Flow Diagram
 
 ![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/DFD.PNG)
