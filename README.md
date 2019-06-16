@@ -40,7 +40,7 @@ The admin’s IP address and port no. is required. The attachments or messages w
 LAN connection between desired devices.
 
 
-# Diagrams
+## Diagrams
 
 #Data Flow Diagram
 
