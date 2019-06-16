@@ -42,14 +42,14 @@ LAN connection between desired devices.
 
 # Diagrams
 1.Data Flow Diagram
-![Alt text](\.settings\DFD.png?raw=true "Data Flow Diagram")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/DFD.png?raw=true "Data Flow Diagram")
 2. Chat and File Transfer
-![Alt text](\.settings\Chat.png?raw=true "Title")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/Chat.png?raw=true "Chat and File Transfer")
 3. Notes Sharing
-![Alt text](\.settings\FileShare.png?raw=true "Title")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/FileShare.png?raw=true "Notes Sharing")
 4. Client Monitoring
-![Alt text](\.settings\ClientMonitoring.png?raw=true "Title")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/ClientMonitoring.png?raw=true "Client Monitoring")
 5. Discussion Forum
-![Alt text](\.settings\DiscussionForum.png?raw=true "Title")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/DiscussionForum.png?raw=true "Discussion Forum")
 6. Use Case
-![Alt text](\.settings\UseCase.png?raw=true "Title")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/UseCase.png?raw=true "Use Case")
