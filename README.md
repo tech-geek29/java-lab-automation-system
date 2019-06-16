@@ -42,14 +42,14 @@ LAN connection between desired devices.
 
 # Diagrams
 1.Data Flow Diagram
-![Alt text](R:\Git\java-lab-automation-system\.settings\DFD.png?raw=true "Data Flow Diagram")
+![Alt text](\.settings\DFD.png?raw=true "Data Flow Diagram")
 2. Chat and File Transfer
-![Alt text](R:\Git\java-lab-automation-system\.settings\Chat.png?raw=true "Title")
+![Alt text](\.settings\Chat.png?raw=true "Title")
 3. Notes Sharing
-![Alt text](R:\Git\java-lab-automation-system\.settings\FileShare.png?raw=true "Title")
+![Alt text](\.settings\FileShare.png?raw=true "Title")
 4. Client Monitoring
-![Alt text](R:\Git\java-lab-automation-system\.settings\ClientMonitoring.png?raw=true "Title")
+![Alt text](\.settings\ClientMonitoring.png?raw=true "Title")
 5. Discussion Forum
-![Alt text](R:\Git\java-lab-automation-system\.settings\DiscussionForum.png?raw=true "Title")
+![Alt text](\.settings\DiscussionForum.png?raw=true "Title")
 6. Use Case
-![Alt text](R:\Git\java-lab-automation-system\.settings\UseCase.png?raw=true "Title")
+![Alt text](\.settings\UseCase.png?raw=true "Title")
