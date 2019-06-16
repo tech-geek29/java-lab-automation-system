@@ -42,14 +42,19 @@ LAN connection between desired devices.
 
 # Diagrams
 1.Data Flow Diagram
-![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/DFD.png?raw=true "Data Flow Diagram")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/DFD.PNG)
+
 2. Chat and File Transfer
-![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/Chat.png?raw=true "Chat and File Transfer")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/Chat.PNG)
+
 3. Notes Sharing
-![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/FileShare.png?raw=true "Notes Sharing")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/FileShare.PNG)
+
 4. Client Monitoring
-![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/ClientMonitoring.png?raw=true "Client Monitoring")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/ClientMonitoring.PNG)
+
 5. Discussion Forum
-![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/DiscussionForum.png?raw=true "Discussion Forum")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/DiscussionForum.PNG)
+
 6. Use Case
-![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/UseCase.png?raw=true "Use Case")
+![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/UseCase.PNG)
