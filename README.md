@@ -41,20 +41,26 @@ LAN connection between desired devices.
 
 
 # Diagrams
-1.Data Flow Diagram
+#Data Flow Diagram
+
 ![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/DFD.PNG)
 
-2. Chat and File Transfer
+# Chat and File Transfer
+
 ![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/Chat.PNG)
 
-3. Notes Sharing
+# Notes Sharing
+
 ![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/FileShare.PNG)
 
-4. Client Monitoring
+# Client Monitoring
+
 ![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/ClientMonitoring.PNG)
 
-5. Discussion Forum
+# Discussion Forum
+
 ![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/DiscussionForum.PNG)
 
-6. Use Case
+# Use Case
+
 ![Alt text](https://github.com/tech-geek29/project-specific-diagrams/blob/master/java/labautomationsystem/UseCase.PNG)
